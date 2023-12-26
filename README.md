@@ -55,3 +55,4 @@
 The analysis of raw user activity logs provides valuable insights into customer behavior, conversion efficiency, and customer retention. By understanding these metrics, the e-commerce company can make informed decisions to optimize the user experience, improve conversion rates, and enhance customer loyalty.
 
 ## Live Demo
+[Link to Live Demo](https://docs.google.com/spreadsheets/d/1-9YQ7v6T6MpbHv5hJ3_fXRL_7dFKsVMFrNZP-EsU1U8/edit?usp=sharing)
