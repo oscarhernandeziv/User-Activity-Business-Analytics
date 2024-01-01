@@ -1,10 +1,10 @@
-# User Activity Business Analytics
+# User Activity Business Analytics Project
 
-## Project Overview
+## Overview
 
 **Objective:** Analyze raw transaction logs to derive business insights for an e-commerce company.
 
-### Data Description
+**Data Description:**
 - **Source:** `raw_user_activity` Google Spreadsheet.
 - **Contents:** Each row represents an activity or event by a user on the company's website, capturing interactions like viewing product pages, opening shopping carts, or completing purchases.
 - **Columns:**
